@@ -2,7 +2,8 @@
 
 ### Contains starter project
 
-- You can fork this repository into your own account, and clone it to make it your own. It includes `mvnw`, so you can just build and run (provided you have Java 11, see later)
+- You can fork this repository into your own account, and clone it to make it your own. It includes `mvnw`, so you can
+  just build and run (provided you have Java 11, see later)
 - For the best experience, use the starter with IntelliJ IDEA Community Edition
 
 ```shell
@@ -12,11 +13,13 @@ $ ./mvnw clean install
 ### Pre-requisites
 
 - The workshop will be available virtually on Zoom
-- We will use some online paste board to share links, etc. If all participants are able to join the same Slack workspace, we might create and use a channel for this purpose.
+- We will use some online paste board to share links, etc. If all participants are able to join the same Slack
+  workspace, we might create and use a channel for this purpose.
 
 ### Setup
 
-- In the event you cannot setup local tools or an IDE, you can still write and run most Kotlin code online using the [Kotlin Playground](https://play.kotlinlang.org)
+- In the event you cannot setup local tools or an IDE, you can still write and run most Kotlin code online using
+  the [Kotlin Playground](https://play.kotlinlang.org)
 - Prefer to setup Kotlin locally as follows
 
 ```shell

@@ -10,7 +10,10 @@ internal class MainKtTest {
 
     @Test
     fun `read lines from file`() {
-        assertEquals(listOf("Argentina", "Croatia", "France", "Morocco"), readLinesFromFile("src/test/resources/test-input.txt"))
+        assertEquals(
+            listOf("Argentina", "Croatia", "France", "Morocco"),
+            readLinesFromFile("src/test/resources/test-input.txt")
+        )
     }
 
 }
